@@ -85,7 +85,7 @@ Berikut untuk langkah-langkahnya.
    Maka kemungkinan besar terdapat konfigurasi pada IP atau Subnetnya yang masih tidak sesuai.<br/>
 
 ## Selesai
-   Sekian untuk konfigurasi LAN menggunaakn Packet Tracer Cisco. dan untuk hasil jadi dapat diunduh pada repositori file bernama `Konfigurasi LAN Dasar - CPT`<br/>
+   Sekian untuk konfigurasi LAN menggunaakn Packet Tracer Cisco. dan untuk hasil jadi dapat diunduh pada repositori file bernama <br/>`Konfigurasi LAN Dasar - CPT`<br/>
 
 <h4 align="center">
   Crafted By Damar Djati Wahyu Kemala
